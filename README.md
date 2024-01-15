@@ -45,6 +45,3 @@ The main script ('nyc_OpenData.ipynb') performs the following tasks:
 7. **Layer Control:**
    - Includes a layer control for easy toggling of map layers.
 
-## Acknowledgments
-- Data provided by Open Data NYC.
-
