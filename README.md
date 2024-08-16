@@ -1,7 +1,7 @@
 # NYC Community Language Profiles Map
 NYC Open Data Visualized 
 
-This project is a recreation of an existing NYC Community Language Profiles Map using Python and various geospatial libraries. The original project utilized technologies that I was not familiar with, and this recreation aims to implement the map using languages and technologies I am proficient in.
+This project is a recreation of an existing NYC Community Language Profiles Map using Python and various geospatial libraries for practice.
 
 
 
